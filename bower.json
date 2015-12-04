@@ -1,0 +1,19 @@
+{
+  "name": "meanMap",
+  "homepage": "https://github.com/AdarshK1/meanMap",
+  "authors": [
+    "Adarsh Kulkarni <addy2999@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular-route": "1.4.6",
+    "angularjs-geolocation": "0.1.1",
+    "modernizr": "3.0.0"
+  }
+}
